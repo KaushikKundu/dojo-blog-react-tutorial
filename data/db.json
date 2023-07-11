@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "ChatGPT",
+      "body": "Invented by Sam Altman, ceo of openkAI",
+      "author": "Sam Altman",
+      "id": 1
+    },
+    {
+      "title": "Threads",
+      "body": "Instagram introduced..",
+      "author": "Mark Zlukerberg",
+      "id": 2
+    },
+    {
+      "title": "Twitter",
+      "body": "Text based social media app..",
+      "author": "Elon Musk",
+      "id": 3
+    }
+  ]
+}
